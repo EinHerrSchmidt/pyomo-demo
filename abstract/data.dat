@@ -1,6 +1,5 @@
 param m := 2 ;
 param n := 3 ;
-param k := 3 ;
 
 param a :=
  1 1 2
